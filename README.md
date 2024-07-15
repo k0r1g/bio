@@ -3,4 +3,4 @@ I'm Kori and my aim is to work on important things that otherwise would not be b
 
 Previously, I was a Founder-in-Residence at Entrepreneur First, and before that I co-founded a startup that raised $8.3M and sent a human to space via Blue Origin.
 
-I completed a BA & MEng in Engineering Science at Oxford University with a focus on Clinical AI, where I built models that served as 'AI-powered Clinical Alarms' to predict if patients would be admitted to ICUs.
+I completed a BA & MEng in Engineering Science at Oxford University with a focus on Clinical AI, where I built models that enable clinical alarms to predict if patients would be admitted to ICUs before a medical emergency occurs.
