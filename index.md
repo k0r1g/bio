@@ -6,4 +6,4 @@ Previously, I was a Founder-in-Residence at Entrepreneur First, and before that 
 I completed a BA & MEng in Engineering Science at Oxford University with a focus on Clinical AI, where I was supervised by Prof. David Clifton, and built models that enable clinical alarms to predict if patients would be admitted to ICUs before a medical emergency occurs.
 
 # Writing
-[Important truths about data centres that very few people agree on](./blog1.html)
+[The role of spirituality in a company](./blog1.html)
