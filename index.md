@@ -1,5 +1,5 @@
 <!-- Home page -->
-# Bio 
+# About me 
 I'm Kori and my aim is to pursue important & uncharted quests.
 
 Previously, I was a Founder-in-Residence at Entrepreneur First, and before that I co-founded a startup that raised $8.3M and sent a human to space via Blue Origin.
