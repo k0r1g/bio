@@ -5,8 +5,6 @@ date: 2024-08-30
 categories: blog
 ---
 
-## The challenge (and other thoughts)
-
 N.B. These essays will be rambly in nature, and I have no expectation for anyone to read them. If you do read them, thank you! 
 
 This October, I'm going to take on a series of challenges. I will lay out these challenges in advance, and if I don't do them, I will run 5 kilometers the next day- with a failure post explaining why I failed.  
@@ -37,5 +35,4 @@ Some to dos regarding this challenge:
 - BIG POST: Building a startup in a post-AGI world. 
 - Once I move to SF, I wish to write a blog post about the multi-year journey it took me to get there. 
 
-
-[back](./)
+[back]({{ site.url }})
