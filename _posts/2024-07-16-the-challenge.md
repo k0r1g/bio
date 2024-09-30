@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: post
+title: "The challenge (and other thoughts)"
+date: 2024-08-30
+categories: blog
 ---
 
-## The challenge
+## The challenge (and other thoughts)
 
 N.B. These essays will be rambly in nature, and I have no expectation for anyone to read them. If you do read them, thank you! 
 
