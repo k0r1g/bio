@@ -8,5 +8,5 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 
 # Writing
 {% for post in site.posts %}
-[{{ post.title }}]({{ post.url | relative_url }})
+- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
