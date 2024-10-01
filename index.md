@@ -10,3 +10,13 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 {% for post in site.posts %}
 [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+# Running List of Projects
+- Refactor this blog site
+- Write a post on my process of applying to MATS
+- Write a post on my process of interviewing with Scale AI
+- Write a post about ClickSolve AI
+- BIG POST: Building a startup in a post-AGI world. 
+- Once I move to SF, I wish to write a blog post about the multi-year journey it took me to get there. 
+- Write a post about Mistral Hackathon 
+- Write a post about interpretability for chain-of-thought models
