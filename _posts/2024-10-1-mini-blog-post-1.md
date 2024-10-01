@@ -13,8 +13,8 @@ Today, I have an interview with the Director of Engineering at Scale AI. I've on
 
 In this essay, I'll lay out my plan for the day and my preparation. Back when I studied for exams, I used to say the real exam is in my preparation because that's when my score is baked in, actually sitting the test is a formality. Same principle applies here. 
 
-Step 1: Generate a list of possible interview questions. 
-Step 2: Write down 3-5 stories that are broad enough to answer all questions. Distill using the STAR method. 
+Step 1: Generate a list of possible interview questions. \
+Step 2: Write down 3-5 stories that are broad enough to answer all questions. Distill using the STAR method. \
 Step 3: Practice. 
 
 Not much to it, I'll be done in 1 hour. 
