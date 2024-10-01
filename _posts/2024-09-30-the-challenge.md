@@ -3,6 +3,8 @@ layout: post
 title: "The challenge (and other thoughts)"
 date: 2024-09-30
 categories: blog
+author: Kori Rogers
+tags: none
 ---
 
 N.B. These essays will be rambly in nature, and I have no expectation for anyone to read them. If you do read them, thank you! 

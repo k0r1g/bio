@@ -3,6 +3,8 @@ layout: post
 title: "Mini Blog Post 1: Applying to Scale AI"
 date: 2024-10-01
 categories: blog
+author: Kori Rogers
+tags: none
 ---
 
 It's the first of October! My Dad off-handedly remarked that Elon Musk is more productive than my brother and I combined. Ok, let's try to prove him wrong. 
