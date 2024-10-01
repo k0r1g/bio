@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The challenge (and other thoughts)"
-date: 2024-08-30
+date: 2024-09-30
 categories: blog
 ---
 
