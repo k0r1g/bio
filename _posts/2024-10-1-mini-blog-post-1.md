@@ -11,16 +11,16 @@ It's the first of October! My Dad off-handedly remarked that Elon Musk is more p
 
 Today, I have an interview with the Director of Engineering at Scale AI. I've only worked at startups that I've founded so this is a new experience. I should note, this is all part of a larger strategy to work on my ikigai, move to SF in order to increase my surface area of luck, and to build something amazing. 
 
-In this essay, I'll lay out my plan for the day and my preparation. Back when I studied for exams, I used to say the real exam is in my preparation because that's when my score is baked in, actually sitting the test is a formality. Same principle applies here. 
+In this essay, I'll lay out my plan for the day and my preparation. Back when I studied for exams, I used to say the real exam is in the preparation because that's when one's score is baked in, actually sitting the test is a formality. Same principle applies here. 
 
 Step 1: Generate a list of possible interview questions. \
 Step 2: Write down 3-5 stories that are broad enough to answer all questions. Distill using the STAR method. \
 Step 3: Practice. 
 
-Not much to it, I'll be done in 1 hour. 
+Not much to it, I'll be done by 6pm. 
 
 Other updates: 
-- worked on refactoring this website, it's more modular now, but I've got this annoying bug in my css, so styling is completely off. I'll fix it tomorrow. 
+- worked on refactoring this website, it's more modular now, but I've got this annoying bug in my css, so styling is completely off. I'll fix it today. 
 - I'll have to plan my preparation for MATS, part of which involves writing a blog on LessWrong, so I'll have to come up with a topic. One idea is to riff on the Anthropic Interpretability updates, another is to think about interpretability in the context of chain-of-thought/reasoning models, which could be an interesting direction to go down. 
 - I am confirmed to be going to the Mistral Hackathon this weekend, and I'll be hacking with Rasched on a chain-of-thought project, likely on the topic of exploring scientific hypotheses, no clear way to productise this though. 
 
@@ -29,6 +29,9 @@ Sidenote: be more aggressive.
 P.S. I am being way more open about my personal thoughts than I am comfortable with, but I think it's good to be more authentic, and it helps that no one actually reads this. 
 
 P.P.S. I know I've got my Anki to do, but I actually enjoy doing that, and I'll get to it later on a break.
+
+*Update*
+Finished the interview, don't think it went amazingly well. Interviewer seemed to be going through the motions, and I could tell I wasn't pattern matching to what she was searching for in an ideal candidate. I really simply have to apply to way more places aggressively.  
 
 
 [back]({{ site.url }})
