@@ -20,3 +20,4 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 - Once I move to SF, I wish to write a blog post about the multi-year journey it took me to get there. 
 - Write a post about Mistral Hackathon 
 - Write a post about interpretability for chain-of-thought models
+- Write a post about SONAR models (which I believe is how Perplexity does their autocomplete) and how Cursor likely does auto-complete and their tab feature. Could also look at open-source versions like Continue to figure this out. 

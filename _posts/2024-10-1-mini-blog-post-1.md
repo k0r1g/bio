@@ -6,6 +6,7 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
+![Mini Blog 1 Image](../assets/images/mini_blog_1_image.webp "DALL-E 3, Prompt: "90s anime-style, representing a jacked guy with short curly brown hair and black eyes (me) working on a technology that streams data into AI models. Make it a banner.")
 
 It's the first of October! My Dad off-handedly remarked that Elon Musk is more productive than my brother and I combined. Ok, let's try to prove him wrong. 
 
@@ -29,9 +30,6 @@ Sidenote: be more aggressive.
 P.S. I am being way more open about my personal thoughts than I am comfortable with, but I think it's good to be more authentic, and it helps that no one actually reads this. 
 
 P.P.S. I know I've got my Anki to do, but I actually enjoy doing that, and I'll get to it later on a break.
-
-*Update*
-Finished the interview, don't think it went amazingly well. Interviewer seemed to be going through the motions, and I could tell I wasn't pattern matching to what she was searching for in an ideal candidate. I really simply have to apply to way more places aggressively.  
 
 
 [back]({{ site.url }})

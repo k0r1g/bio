@@ -6,6 +6,7 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
+![The Challenge Image](../assets/images/the_challenge_image.webp "DALL-E 3, Prompt: "90s anime-style, representing a jacked guy with short curly brown hair and black eyes (me) working, studying, running business, building technology looking like an epic badass. Make it a banner.")
 
 N.B. These essays will be rambly in nature, and I have no expectation for anyone to read them. If you do read them, thank you! 
 
