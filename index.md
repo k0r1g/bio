@@ -12,7 +12,6 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 {% endfor %}
 
 # Running List of Projects
-- Refactor this blog site
 - Write a post on my process of applying to MATS
 - Write a post on my process of interviewing with Scale AI
 - Write a post about ClickSolve AI

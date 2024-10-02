@@ -6,7 +6,9 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
-<img src="/assets/images/mini_blog_2_image.webp" alt="Mini Blog 2 Image" title="Mini Blog 2 Image">
+<img src="{{ '/blog/assets/images/mini_blog_2_image.webp' | relative_url }}" alt="Mini Blog 2 Image" title="Mini Blog 2 Image">
+
+**I am going to shift much of this work to tomorrow, too many errands to run in moving to London. I won't mince words, it's a failure of my initial plan of the day- but the deadline is 4 days away, so I have some leeway. Future to do: Ping Nina personally.**
 
 Finished the interview- I'll give an update when I get news. Yesterday was also OpenAI's DevDay, and I'll set aside one pomodoro today to catch up on the details, but I'm definitely interested in the Realtime API and hacking a project with it- I've heard it's got latency and tonal issues, but it'd be a fun project to build. 
 
