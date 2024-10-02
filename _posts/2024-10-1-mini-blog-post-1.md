@@ -6,7 +6,7 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
-![Mini Blog 1 Image](../assets/images/mini_blog_1_image.webp "DALL-E 3, Prompt: "90s anime-style, representing a jacked guy with short curly brown hair and black eyes (me) working on a technology that streams data into AI models. Make it a banner.")
+![Mini blog post 1 image](/assets/img/mini_blog_1_image.webp)
 
 It's the first of October! My Dad off-handedly remarked that Elon Musk is more productive than my brother and I combined. Ok, let's try to prove him wrong. 
 

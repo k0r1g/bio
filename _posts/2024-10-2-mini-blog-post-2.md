@@ -8,7 +8,7 @@ tags: none
 ---
 ![Mini blog post 2 image](/assets/img/mini_blog_2_image.webp)
 
-**I am going to shift much of this work to tomorrow, too many errands to run in moving to London. I won't mince words, it's a failure of my initial plan of the day- but the deadline is 4 days away, so I have some leeway. Future to do: Ping Nina personally.**
+**Update: I am going to shift much of this work to tomorrow, too many errands to run in moving to London. I won't mince words, it's a failure of my initial plan of the day- but the deadline is 4 days away, so I have some leeway. Future to do: Ping Nina personally.**
 
 Finished the interview- I'll give an update when I get news. Yesterday was also OpenAI's DevDay, and I'll set aside one pomodoro today to catch up on the details, but I'm definitely interested in the Realtime API and hacking a project with it- I've heard it's got latency and tonal issues, but it'd be a fun project to build. 
 
