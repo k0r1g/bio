@@ -6,7 +6,7 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
-<img src="{{ '/blog/assets/images/mini_blog_2_image.webp' | relative_url }}" alt="Mini Blog 2 Image" title="Mini Blog 2 Image">
+![Mini blog post 2 image](/assets/img/mini_blog_2_image.webp)
 
 **I am going to shift much of this work to tomorrow, too many errands to run in moving to London. I won't mince words, it's a failure of my initial plan of the day- but the deadline is 4 days away, so I have some leeway. Future to do: Ping Nina personally.**
 
