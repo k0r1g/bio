@@ -6,7 +6,7 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
-![Mini Blog 2 Image](../assets/images/mini_blog_2_image.webp "DALL-E 3, Prompt: "90s anime-style, representing a jacked guy with short curly brown hair and black eyes (me) working on reverse engineering an artificial intelligence (mechanistic interpretability). Make it a banner.")
+![Mini Blog 2 Image](../assets/images/mytest.png "DALL-E 3, Prompt: "90s anime-style, representing a jacked guy with short curly brown hair and black eyes (me) working on reverse engineering an artificial intelligence (mechanistic interpretability). Make it a banner.")
 
 Finished the interview- I'll give an update when I get news. Yesterday was also OpenAI's DevDay, and I'll set aside one pomodoro today to catch up on the details, but I'm definitely interested in the Realtime API and hacking a project with it- I've heard it's got latency and tonal issues, but it'd be a fun project to build. 
 
