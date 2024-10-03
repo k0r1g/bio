@@ -38,9 +38,5 @@ P.S. Toying with the idea of applying to some jobs at Anthropic, there are some 
 
 P.P.S. Cursor's tab/autocomplete feature has been amazing for writing these posts- since I've been thinking about an IDE for science, it's quite lovely to find that this format is fantastic for writing research as well as writing code. 
 
-P.P.P.S. God, I've spent way to much time working through a bug that is stoping images from rendering on the blog- seems like it should be an easy fix, but nope. I need to get better. Anyway, I have to move on for now and work on MATS. 
-
-
-
 
 [back]({{ site.url }})
