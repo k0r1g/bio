@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Blog Post 3: London- Preparing for October"
+title: "Mini Blog Post 3: Arriving in London & Preparing for October"
 date: 2024-10-03
 categories: blog
 author: Kori Rogers
@@ -23,6 +23,10 @@ I'll start by booking an Airbnb from Friday-Tuesday, and then I'll figure out th
 
 Booked the Airbnb- it wasn't cheap, and flights won't be cheap, and accomodation in SF won't be cheap. Slightly stressful, and I need to aggressively find ways to make money ASAP. Current plan, book a flight for next Wednesday. 
 
-Spending some time with Grandma, so I'll have to step away. I'll come back to this blog and work after. 
+Spending some time with Grandma, so I'll have to step away. I'll come back to this blog and work after. Ended up dong errands for Grandma, and spending time with her- it's never a waste of time. I've got family duties in the evening too. However, it does mean I'm not working on my to-do list. 
+
+Planning to handle the flights and SF accomodation details tomorrow morning. 
+
+Note: Ensure tomorrow that your Irish passport has been sent in the mail. 
 
 [back]({{ site.url }})
