@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Blog Post 7: Entering Monk-Mode"
+title: "Mini Blog Post 7: Entering Monk-Mode (Part 2)"
 date: 2024-10-07
 categories: blog
 author: Kori Rogers
@@ -8,41 +8,31 @@ tags: none
 ---
 ![Mini blog post 7 image](/assets/img/mini_blog_7_image.webp)
 
-Hackathon is over. Now, it's time to get back to the real world and find some opportunities. 
+**Part 1: Deciding on a Visa**
 
-My goal is for this blog post to continue to evolve into a larger essay around my journey applying for jobs and my journey to break into SF. 
+I've decided not to risk going with the ESTA to get in the US. Time to apply for the B1 visa.
 
-First, I need to enter monk-mode. This means locking myself away and no distractions. I plan to be in this state for the rest of October at minimum. 
+Seems to be that the rule of thumb is that for every day you stay in the US on ESTA/B1, you should stay 1/2 days outside of the US, and ensure you have strong ties to the UK. It also appears that during the B1 interview, an I-94 is issued, and the interviewer decided how long you are allowed to stay in the US- the 6 months number is simply the upper limit, it could be 2 weeks or 2 months. 
 
-I simply need to figure out my visa pathway to the US. In complete detail. Below I will write out the visa pathway that I intend to take, step by step including the consultants that I will want to use and so on. This will lay out some more details, about where I want to be in the next few months. 
-- details include things like applying to remote jobs in the US, not in-person ones, just to give myself a fighting chance. 
-- or like applying for the B1, going to the US with the ESTA, while I wait for the results of the B1. 
-- who are the top consultants that I can use? 
-- if I do go to the US, what is my plan there? Where will I stay? What benefit do I get from being there vs anywhere else? Be very specific about your goals and what you want to achieve. 
+I left the US on May 27. It is now October 7. So it's been roughly 133 days since I've been in the US- so 4.5 months, I'm in the range of possibly an acceptable amount of time outside of the US, but I'm (1) unemployed- although there are ways around this with my business in Singapore, (2) during my previous trip to the US, I stayed a full 3 months in SF. I do not want to risk losing my ability to come to the US, so I've decided in order to go there, I must pre-emptively have a 3 month schedule planned. Either I want a research programme or an accelerator, or something similar to justify my time there. 
 
-I will also then write out a plan for how to do better in jobs. 
-- For example, the tools I want to use for mass-applying for jobs. 
-- How to be more granualar about my to-do's when it comes to job applications (and how i want to fill in my calendar to enable me to structure my work in a way that I dont miss anything)
-- Things like applying to every YC/AI grant company that makes sense. 11x AI.
-- Things about the career arc I wish to take and the skills I wish to develop. 
+My decision is final. 
 
-I think its clear that it will also be worth applying to graduate opportunities- genuinely look at Masters programs and PhD programs. Apply anyway. 
-- Come up with the top ones, create a list. Get the transcripts. Apply. 
+*tl;dr* Do not go to the US until you have 3 months of work planned there. 
 
-More immediately urgent than pretty much anything else is to figure out where i need to stay for the next 2 weeks. Rasched has kindly offered to host me, but I need to figure out if that makes sense for my personal goals. I can't just take the first most convenient opportunity that comes my way, I need to be strategic and think through my options. 
+**Part 2: Planning my time up till a trip to the US**
+A good default is to stay in the UK. I can begin to look at SpareRoom- book out till the end of the year. Worst case scenario is that I leave earlier because a great opportunity presents itself in the US, and at worst I lose some money on accomodation I will not need. 
 
-I think right now, I need to be an execution machine. I dont know if this is reflective of some kind of weakness in my psychology, but I want to force monk-mode somehow. For example, is it worth running a few experiments like: 
-- Running every day for the next week. 
-- Waking up at 5.30am every day for the next week, thus sleeping at 9.30pm every night. 
+**Part 3: Justifying my time in the US**
+This work is less immediate, but I want to apply for accelerators like Founders Inc or Z Fellows to justify a 3 months stay. Explore fellowships. Explore grants. This will be its own blog post. 
 
-Yes, I want to try that. As a quick retrospective on the first 8 days of blogging, I will say that the one thing I have largely been consistent with is blogging. As for coding- I've kind of cheated, because while I have been pushing on github daily, it's largely these blog posts. I will say though that I've been coding way more than I have since basically my MEng. I've also not hit my anki goals. I will also come forth and admit that I have not been doing my punishments for missed daily tasks. I will improve. 
+**Part 4: Planning this Week**
+Tues- book a place in SpareRoom. I may have to ask to stay in Bath or something in the meantime, or maybe Oxford. 
 
-Despite all this, I feel the need to add more challenges. Monk-mode. Execution machine. 
+**Part 5: Projecting the next 3 months**
+Key Dates: 
+- November 12: YC Deadline for Jan-March 2025 cohort in SF. 
 
-
-**Today's Plan**
-- 3.30pm-5pm: Plan out the next 2 weeks. Basically, Singapore could have been an option, but I think I will stay in the UK. My alternative thought was to go to the US straight away, but 2 weeks while I situate myself make sense. The most stressful part about my current situation is that I continue to stay in places for only a few days at a time. 
-
-
+I will get a gym membership. I will run frequently. I will take supplements. I will live a full and healthy existence, but fully in monk mode- building, making money, studying, and applying to opportunities. 
 
 [back]({{ site.url }})
