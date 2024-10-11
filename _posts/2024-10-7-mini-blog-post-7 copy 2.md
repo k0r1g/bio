@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Blog Post 7: Entering Monk-Mode (Part 2)"
+title: "Mini Blog Post 7.5: Entering Monk-Mode (Part 2)"
 date: 2024-10-07
 categories: blog
 author: Kori Rogers
@@ -12,7 +12,7 @@ tags: none
 
 I've decided not to risk going with the ESTA to get in the US. Time to apply for the B1 visa.
 
-Seems to be that the rule of thumb is that for every day you stay in the US on ESTA/B1, you should stay 1/2 days outside of the US, and ensure you have strong ties to the UK. It also appears that during the B1 interview, an I-94 is issued, and the interviewer decided how long you are allowed to stay in the US- the 6 months number is simply the upper limit, it could be 2 weeks or 2 months. 
+Seems to be that the rule of thumb is that for every day you stay in the US on ESTA/B1, you should stay 1/2 days outside of the US, and ensure you have strong ties to the UK. It also appears that during the B1 interview, an I-94 is issued, and the interviewer decides how long you are allowed to stay in the US- the 6 months number is simply the upper limit, it could be 2 weeks or 2 months. 
 
 I left the US on May 27. It is now October 7. So it's been roughly 133 days since I've been in the US- so 4.5 months, I'm in the range of possibly an acceptable amount of time outside of the US, but I'm (1) unemployed- although there are ways around this with my business in Singapore, (2) during my previous trip to the US, I stayed a full 3 months in SF. I do not want to risk losing my ability to come to the US, so I've decided in order to go there, I must pre-emptively have a 3 month schedule planned. Either I want a research programme or an accelerator, or something similar to justify my time there. 
 

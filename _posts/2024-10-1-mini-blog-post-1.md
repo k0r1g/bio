@@ -8,6 +8,8 @@ tags: none
 ---
 ![Mini blog post 1 image](/assets/img/mini_blog_1_image.webp)
 
+**Update: It was a rejection- but I knew immediately it would be from the interview, I could tell she was pattern matching, and when I wasn't at all what she was looking for, she passed. She mentioned she wanted to ex-research engineers.**
+
 It's the first of October! My Dad off-handedly remarked that Elon Musk is more productive than my brother and I combined. Ok, let's try to prove him wrong. 
 
 Today, I have an interview with the Director of Engineering at Scale AI. I've only worked at startups that I've founded so this is a new experience. I should note, this is all part of a larger strategy to work on my ikigai, move to SF in order to increase my surface area of luck, and to build something amazing. 

@@ -7,6 +7,7 @@ author: Kori Rogers
 tags: none
 ---
 ![Mini blog post 6 image](/assets/img/mini_blog_6_image.webp)
+Retrospectively written on Monday 7th October 2024.
 
 Hackathon complete! We did not win, but it doesn't matter- we came in to have fun and code. Below is a screenshot of our game. 
 
