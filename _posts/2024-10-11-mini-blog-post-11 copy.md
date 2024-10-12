@@ -20,34 +20,8 @@ But we must work on the applied sciences before working on basic science.
 
 By the way RAND started with a $10M seed.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Eventually I want to build space mega-structures. (Start with autonomy, move to hardware)
-
-AGI is not sufficient to automate R&D. 
+AGI is not sufficient to automate R&D. (Justify this intuition.)
 
 We need an Andruil-like system that connects with sensors and automatically enables real-time decisions. Focus on experiments that are longer-scale- that requires a scientists supervision to do stuff- e.g. imagine an expetiment that requires monitoring something, then releasing a gas, then monitoring the results, then repeating- we have the model do this. 
-
-
-
-
-Ok onto the main stuff: 
 
 [back]({{ site.url }})

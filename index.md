@@ -11,12 +11,9 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
-# Running List of Projects
-- Write a post on my process of applying to MATS
-- Write a post on my process of interviewing with Scale AI
-- Write a post about ClickSolve AI
-- BIG POST: Building a startup in a post-AGI world. 
+# Blog posts I will wirte
+- ClickSolve AI
 - Once I move to SF, I wish to write a blog post about the multi-year journey it took me to get there. 
-- Write a post about Mistral Hackathon 
-- Write a post about interpretability for chain-of-thought models
+- BIG POST: Building a startup in a post-AGI world. 
+- LessWrong POST: Write a post about interpretability for chain-of-thought models
 - Write a post about SONAR models (which I believe is how Perplexity does their autocomplete) and how Cursor likely does auto-complete and their tab feature. Could also look at open-source versions like Continue to figure this out. 
