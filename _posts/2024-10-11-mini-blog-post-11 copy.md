@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini Blog Post 11: Meh"
+title: "Mini Blog Post 11: Meh day"
 date: 2024-10-11
 categories: blog
 author: Kori Rogers
@@ -10,9 +10,7 @@ Probably a good time for an update. I'm in London, I have a few days at the High
 
 The goal today is to actually get 1 solid pomodoro on CodeSignal stuff. I am just going to fully prioritize the github page on CodeSignal questions for this pomodoro. The second goal is to come up with 3 good startup ideas.
 
-XXXXXXXXX
-
-AutoRAND. 
+**AutoRAND.** 
 
 This will be a startup but also a think tank. Inspired by the RAND corporation. Why? I think the world is going to change. I'm worried. I think AGI is going to change everything- labour markets, geo-politics, religion, etc. and the world will be tumultuous. 
 
