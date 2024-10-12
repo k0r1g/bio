@@ -54,8 +54,8 @@ When will the first Nobel Peace prize be awarded for work done on AI Safety?
 **Is solving intelligence the only meaningful thing to work on?**
 DeepMind's mission is, according to Hassabis, to: "solve intelligence" and then use intelligence "to solve everything else". 
 
-I've brought this up before, but if getting to AGI frictionlessly leads to getting to ASI (aka the fast take-off), and ASI solves all of humanity's problems, then does make a lot of other work meaningless. It's like Popper's theory around paradigm shifts in science, imagine working on a prior paradigm of science- building incremental progress, and someone else discovers a new paradigm that makes all of your work obsolete. 
+I've brought this up before, but if getting to AGI frictionlessly leads to getting to ASI (aka the fast take-off), and ASI solves all of humanity's problems, then does itmake a lot of other work meaningless? It's like Popper's theory around paradigm shifts in science, imagine working on a prior paradigm of science, building incremental progress, and someone else discovers a new paradigm that makes all of your work obsolete. 
 
-This is the risk. I'd rather gamble on this new paradigm. An essay awaits on whether there is anything else meaningful to work on than ASI- I haven't started on it yet, I suppose I'm waiting for intuition on what it could be before I write the essay, but I suppose I should start and learn along the way. 
+This is the risk. I'd rather gamble on this new paradigm. An essay awaits on whether there is anything else meaningful to work on other than ASI- I haven't started on it yet because I have no idea and I've waiting for intuition on what it could be before I write the essay, but I suppose I should start and learn along the way. 
 
 [back]({{ site.url }})
