@@ -38,5 +38,6 @@ Chunk 2: Coding. I wish to finish all CodeSignal questions on the GitHub today a
 Chunk 3: Book accomodation. Actually I need to start with this. 
 
 
-
+**AutoRAND: The substrate for AGI to run scientific experiments**
+Claim: AGI is insufficient to 
 [back]({{ site.url }})
