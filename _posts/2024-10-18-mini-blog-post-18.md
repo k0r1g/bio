@@ -6,18 +6,19 @@ categories: blog
 author: Kori Rogers
 tags: none
 ---
-**The design**
+**The design**   
 Ok, so I forked bolt.new in order to make the front end for AutoRAND. A couple notable points to make here: first, that I'm quite impressed by StackBlitz’s WebContainers, it basically allows you to embed an IDE (including filesystem, terminal & ability to install dependencies) into a website; second, that though forking bolt makes our product look like a co-pilot for now, it's fine as an MVP and I think the end-goal for it looks closer to a code editor. 
 
 This is a 1 month sprint, but I've maybe gotten to 80% of what the front-end will be in basically half a day- thank you bolt & open-source!
 
-**An AI-reasoning product, not an AI product**
-We're focussed on making this an o1 product vs a GPT product, meaning roughly that we trade-off cost & speed for extremely high reasoning. The reason why we've done this is xxxx. What this means in the UX is that we'd like our user's queries to be as well-specified as possible, making the input bar closer to a word editor than a search bar. We instruct users: "Think of AutoRAND as a really smart friend you're going to send a DM to solve a problem. Plan your prompt & specify well." 
+**An AI-reasoning product, not an AI product**  
+We're focussed on making this an o1 product vs a GPT product, meaning roughly that we trade-off cost & speed for extremely high reasoning. The reason why we've done this is science is a particularly reasoning-heavy field. What this means in the UX is that we'd like our user's queries to be as well-specified as possible, making the input bar closer to a word editor than a search bar. We instruct users: "Think of AutoRAND as a really smart friend you're going to send a DM to solve a problem. Plan your prompt & specify well." 
 
 The first query will likely answered by o1, and follow-up queries by Claude 3.5 Sonnet. 
 
-**The core technical challenge**
-*Starting from a very low bar*
+**The core technical challenge**  
+*Starting from a very low bar*  
+
 So, the core technical challenge of our sprint is to get our science code generation to a place where it beats benchmarks in a notably meaningful way- Claude 3.5 Sonnet currently scores 4.6%.
 
 Here I list some of our hypotheses on how to meaningfully improve this score, roughly in descending order of my guess on how impactful I think they'll be. 
@@ -36,25 +37,25 @@ Here I list some of our hypotheses on how to meaningfully improve this score, ro
 (3) Tricks? Does getting the model to code in MATLAB then convert that to Python help?
 
 
-**Defining our problem-choice**
-*Fields & Sub-fields*
+**Defining our problem-choice**  
+*Fields & Sub-fields*  
 SciCode has listed 5 fields (Math, Physics, Chemistry, Biology, Material Science) and 16 sub-fields (Condensed Matter Physics, Quantum Chemistry, Semiconductor Materials etc.). 
 
-*Problem structuring*
+*Problem structuring*  
 SciCode roughly categorises problems into main-problems and sub-problems, where sub-problems have dependencies on each other, and must collectively be solved in order to solve the main-problem. The logic in mapping this out is itself a fascinating challenge, but not where we are starting with.  
 
-*Categories of computational scientific work*
+*Categories of computational scientific work*  
 So SciCode defines three meta-categories of computational scientific work:(1) numerical methods, (2) simulation of systems, (3) scientific calculations.
 
 For example, a climate scientist might use numerical methods to solve differential equations (category 1), create a simulation of global weather patterns (category 2), and then perform statistical analyses and create visualizations of the results (category 3).
 
 We will work on scientific calculations & on sub-problems that are as close to biophysics as possible. 
 
-**Why this matters and what could be the impact?**
+**Why this matters and what could be the impact?**  
 MATLAB as an incumbent- why can we disrupt them? They are a fantastic platform, but they are married to their programming language (MATLAB).
 
 
-**Tasks today:**
+**Tasks today:**  
 - This essay, roughly outlining the key design decisions & core technical challenge as we sprint through the next month. 
 - Set up the SciCode Github and examine the problems. 
 - Write an essay that justifies our existence. 
@@ -62,13 +63,17 @@ MATLAB as an incumbent- why can we disrupt them? They are a fantastic platform, 
 
 (Note: it will be worth doing a much deeper dive into the repo- including the problems and sub-problems.)
 
-**Random:**
+**Random:**  
 Thoughts about outputting in this way: https://www.mathworks.com/help/simbio/ug/simulating-the-glucose-insulin-response.html
 
 Not just raw code
 
 
-**Future work:**
+**Future work:**  
 - Dealing with main-problem & sub-problem dependencies; work related to Rasched's hypothesis-testing graph. 
+
+
+Update:  
+My latest idea is for us to constrain very specifically to Biophysics. And I have a crazy idea. If we can get all the internal code for papers that are already published and hence not secret in Rasched's lab, then we have a way of tackling this problem from one niche!
 
 [back]({{ site.url }})
