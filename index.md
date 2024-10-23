@@ -2,7 +2,7 @@
 # About me 
 I'm Kori and I really care about advancing science. 
 
-My Mum is from Okinawa and my Dad is from the UK. I owe everything to my parents! I have a funny accent (American-ish, Singaporean twist, maybe a sprinkle of English) because I was born in HK, spent the first few years of my life in Japan, then Korea untill I was 10, before moving to Singapore till I left for the UK for university. Singapore is what I consider home, it's where my childhood friends live, and I have a deep respect for the country and a lot of my values are shaped from growing up there. 
+My Mum is from Okinawa and my Dad is from the UK. I owe everything to my parents! I was born in HK, spent the first few years of my life in Japan, then Korea until I was 10, before moving to Singapore till I left for the UK for university. Singapore is where I consider home, it's where my childhood friends live, and I have a deep respect for the country and a lot of my values are shaped from growing up there. 
 
 I completed a BA & MEng in Engineering Science at Oxford University with a focus on Clinical AI, where I was supervised by Prof. David Clifton, and built models that enable clinical alarms to predict if patients would be admitted to ICUs before a medical emergency occurs.
 
