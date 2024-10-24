@@ -8,6 +8,8 @@ I completed a BA & MEng in Engineering Science at Oxford University with a focus
 
 Straight after university, I co-founded a company that raised $8.3M and sent a human to space via Blue Origin. After that, I worked on a string of projects including some time as a Founder-in-Residence at Entrepreneur First. 
 
+I believe truly great technology is discovered, not invented.
+
 # Selected Writing
 {% for post in site.posts %}
 [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
